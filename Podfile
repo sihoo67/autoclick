@@ -1,7 +1,7 @@
 platform :ios, '18.2'
 use_frameworks!
 
-target 'AutoClick' do
+target 'AutoClickerViewController.pbxproject' do
   pod 'Alamofire'
   pod 'SwiftyJSON'
   pod 'SnapKit'
